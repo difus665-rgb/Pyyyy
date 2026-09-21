@@ -29,7 +29,7 @@ except Exception:
     HAS_PIL = False
 
 # ================= КОНФИГУРАЦИЯ =================
-BOT_TOKEN = "8977407399:AAGODHt0HzQRFSFxS76dHAmNydoF09_24jQ"
+BOT_TOKEN = "8977407399:AAHsRE8wKOiNecttXIRpIhxAZrd5oOuzUmY"
 ADMIN_IDS: List[int] = [8042085312]
 
 IMG_FMT = {
