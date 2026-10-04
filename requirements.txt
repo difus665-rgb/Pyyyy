@@ -1,3 +1,5 @@
 aiogram
-g4f
-pillow
+aiohttp
+python-dotenv
+pydantic
+pydantic-settings
